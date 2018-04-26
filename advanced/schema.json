@@ -1,0 +1,82 @@
+data = `[
+{
+  "id": 1,
+  "firstName": "Tim",
+  "lastName": "Almamedov",
+  "email": "tim.almamedov@gmail.com",
+  "jobTitle": "developer",
+  "salary": 2500
+},
+{
+  "id": 2,
+  "firstName": "Sabine",
+  "lastName": "Gruber",
+  "email": "grubersabine@gmx.at",
+  "jobTitle": "web-designer",
+  "salary": 3500
+},
+{
+  "id": 3,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@gmail.com",
+  "jobTitle": "policmen",
+  "salary": 2530
+},
+{
+  "id": 4,
+  "firstName": "Mary",
+  "lastName": "Doe",
+  "email": "mary.doe@gmail.com",
+  "jobTitle": "policmen",
+  "salary": 2530
+},
+{
+  "id": 5,
+  "firstName": "jack",
+  "lastName": "smith",
+  "email": "jack.smith@gmail.com",
+  "jobTitle": "baker",
+  "salary": 1930
+},
+{
+  "id": 6,
+  "firstName": "Lena",
+  "lastName": "Brown",
+  "email": "lena.brown@gmail.com",
+  "jobTitle": "developer",
+  "salary": 1530
+},
+{
+  "id": 7,
+  "firstName": "Felix",
+  "lastName": "Brown",
+  "email": "felix.brown@gmail.com",
+  "jobTitle": "actor",
+  "salary": 10000
+},
+{
+  "id": 8,
+  "firstName": "Tanya",
+  "lastName": "White",
+  "email": "tanya.white@gmail.com",
+  "jobTitle": "engineer",
+  "salary": 4300
+},
+{
+  "id": 9,
+  "firstName": "Tom",
+  "lastName": "Ginger",
+  "email": "tom.ginger@gmail.com",
+  "jobTitle": "plummer",
+  "salary": 1700
+},
+{
+  "id": 10,
+  "firstName": "Lisa",
+  "lastName": "Kot",
+  "email": "lisa.kot@gmail.com",
+  "jobTitle": "painter",
+  "salary": 1529
+}
+]`;
